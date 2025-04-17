@@ -1,11 +1,4 @@
 # Desafios Orientados a Objetos com Interface
-
-Este repositório reúne três desafios desenvolvidos em Java, com foco na aplicação de conceitos de **Programação Orientada a Objetos**, uso de **interfaces**, **herança**, **encapsulamento**, e **testes com JUnit**.
-
-## 🗂 Estrutura
-
-Cada desafio está separado por pacotes dentro do namespace `org.example`, mantendo uma arquitetura modular e limpa.
-
 ---
 
 ##  Desafio 1 – Campeonato de Futebol Feminino
